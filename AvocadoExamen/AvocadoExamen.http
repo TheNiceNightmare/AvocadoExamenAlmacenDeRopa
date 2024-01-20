@@ -1,0 +1,6 @@
+@AvocadoExamen_HostAddress = http://localhost:5198
+
+GET {{AvocadoExamen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
